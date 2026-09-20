@@ -1,16 +1,70 @@
-## Hi there 👋
+👋 Hi, I'm Sani Bhuvad
 
-<!--
-**sanibhuvad80-del/sanibhuvad80-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⭐ About Me:
 
-Here are some ideas to get you started:
+🎓 Final Year Computer Engineering Student
+💻 Full-Stack Developer | MERN Stack Developer
+🚀 Building real-world web applications
+🌱 Learning, exploring & improving every day
+🤝 Open to collaboration and new opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Socials:
+
+
+
+
+
+💻 Tech Stack:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📊 GitHub Stats:
+
+
+
+🔥 GitHub Streak:
+
+
+
+📈 Most Used Languages:
+
+
+
+🚀 Featured Projects:
+
+🛒 E-Commerce Website
+
+Full-stack e-commerce project using Django, MySQL, HTML, CSS and JavaScript.
+
+📊 AtmoSync
+
+Data analytics and Power BI project for air-freight/environmental data analysis.
+
+🔐 Vulnerability Scanner
+
+Mini cybersecurity project for basic vulnerability assessment and reporting.
+
+🔑 Password Strength Checker
+
+Python project for checking password strength using common security rules.
+
+🏥 Health Scheduling System
+
+Web-based appointment scheduling system using PHP and MySQL.
+
+⭐ Thanks for visiting my profile!
