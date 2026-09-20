@@ -10,39 +10,38 @@
 
 🌐 Socials:
 
-
+linkedin.com/in/sani-bhuvad-97bbb7377
+https://github.com/sanibhuvad80-del
 
 
 
 💻 Tech Stack:
 
 
+## 💻 Tech Stack
 
-
-
-
-
-
-
-
-
-
-
-
-
+🐍 Python | 📊 Power BI | 📗 Excel  
+🗄️ SQL | MySQL | 📓 Jupyter | 🔧 Git | 🐙 GitHub
 
 
 
 📊 GitHub Stats:
 
 
+⭐ Stars | 📦 Repositories | 💻 Contributions  
+🔀 Commits | 🐛 Issues | 🔄 Pull Requests
+
 
 🔥 GitHub Streak:
 
 
+🔥 Current Streak | 🏆 Longest Streak | 📅 Total Contributions
+
 
 📈 Most Used Languages:
 
+
+🐍 Python | 🌐 HTML | 🎨 CSS | ⚡ JavaScript | 🐘 PHP
 
 
 🚀 Featured Projects:
@@ -55,16 +54,6 @@ Full-stack e-commerce project using Django, MySQL, HTML, CSS and JavaScript.
 
 Data analytics and Power BI project for air-freight/environmental data analysis.
 
-🔐 Vulnerability Scanner
 
-Mini cybersecurity project for basic vulnerability assessment and reporting.
-
-🔑 Password Strength Checker
-
-Python project for checking password strength using common security rules.
-
-🏥 Health Scheduling System
-
-Web-based appointment scheduling system using PHP and MySQL.
 
 ⭐ Thanks for visiting my profile!
